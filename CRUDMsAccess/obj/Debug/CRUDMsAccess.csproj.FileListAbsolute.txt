@@ -1,0 +1,11 @@
+D:\Test Projects\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe.config
+D:\Test Projects\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe
+D:\Test Projects\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.pdb
+D:\Test Projects\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Form1.resources
+D:\Test Projects\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Properties.Resources.resources
+D:\Test Projects\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csproj.GenerateResource.cache
+D:\Test Projects\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csproj.CoreCompileInputs.cache
+D:\Test Projects\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.exe
+D:\Test Projects\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.pdb
+D:\Test Projects\CRUDMsAccess\CRUDMsAccess\bin\Debug\mydb.accdb
+D:\Test Projects\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csproj.AssemblyReference.cache
